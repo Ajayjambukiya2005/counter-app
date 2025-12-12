@@ -47,7 +47,7 @@ const App = () => {
             <h3 className="text-xl font-medium text-gray-500 uppercase tracking-wider">
               Current Count:
             </h3>
-            <p className="text-7xl font-extrabold text-blue-600 dark:text-blue-400 mt-2 text-center">
+            <p className="text-7xl font-extrabold text-green-600 dark:text-green-400 mt-2 text-center">
               {count}
             </p>
           </div>
